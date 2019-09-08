@@ -1,2 +1,5 @@
-# Backlog
- README files in this repository explain projects we are working on, considering working on, or have completed!
+# Nuclear fusion reactor 
+
+Build your own nuclear fusion reactor!
+[Make something like this](https://www.youtube.com/watch?v=EVOBk-InL00)
+
